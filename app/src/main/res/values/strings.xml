@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sayes</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_get_nearby_places">Map</string>
+</resources>
